@@ -33,7 +33,7 @@ namespace WindowsFormsApplication43
 
 
 
-            string uri = string.Format("http://api.apixu.com/v1/forecast.xml?key=948cf95c6d9f4b26a99123418191804&q={0}&days=1", city);
+            string uri = string.Format("http://api.weatherapi.com/v1/forecast.xml?key=ccecc38af17842a897155559230404&q={0}&days=1&aqi=no&alerts=no", city);
 
             XDocument doc = XDocument.Load(uri);
 
@@ -108,7 +108,8 @@ namespace WindowsFormsApplication43
 
 
 
-            string uri = string.Format("http://api.apixu.com/v1/forecast.xml?key=948cf95c6d9f4b26a99123418191804&q={0}&days=7", city);
+            string uri = string.Format("http://api.weatherapi.com/v1/forecast.xml?key=ccecc38af17842a897155559230404&q={0}&days=7&aqi=no&alerts=no", city);
+        
 
             XDocument doc = XDocument.Load(uri);
 
