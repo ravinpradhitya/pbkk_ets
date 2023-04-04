@@ -1,0 +1,20 @@
+F:\c#ex\WindowsFormsApplication43\WindowsFormsApplication43\bin\Debug\WindowsFormsApplication43.exe.config
+F:\c#ex\WindowsFormsApplication43\WindowsFormsApplication43\bin\Debug\WindowsFormsApplication43.exe
+F:\c#ex\WindowsFormsApplication43\WindowsFormsApplication43\bin\Debug\WindowsFormsApplication43.pdb
+F:\c#ex\WindowsFormsApplication43\WindowsFormsApplication43\obj\Debug\WindowsFormsApplication43.Form1.resources
+F:\c#ex\WindowsFormsApplication43\WindowsFormsApplication43\obj\Debug\WindowsFormsApplication43.Properties.Resources.resources
+F:\c#ex\WindowsFormsApplication43\WindowsFormsApplication43\obj\Debug\WindowsFormsApplication43.csproj.GenerateResource.Cache
+F:\c#ex\WindowsFormsApplication43\WindowsFormsApplication43\obj\Debug\WindowsFormsApplication43.exe
+F:\c#ex\WindowsFormsApplication43\WindowsFormsApplication43\obj\Debug\WindowsFormsApplication43.pdb
+F:\c#ex\WindowsFormsApplication43\WindowsFormsApplication43\obj\Debug\WindowsFormsApplication43.csprojResolveAssemblyReference.cache
+C:\Users\PiorPC\Documents\its\SEM 6\pbbk\ets\WindowsFormsApplication43\WindowsFormsApplication43\bin\Debug\WindowsFormsApplication43.exe.config
+C:\Users\PiorPC\Documents\its\SEM 6\pbbk\ets\WindowsFormsApplication43\WindowsFormsApplication43\bin\Debug\WindowsFormsApplication43.exe
+C:\Users\PiorPC\Documents\its\SEM 6\pbbk\ets\WindowsFormsApplication43\WindowsFormsApplication43\bin\Debug\WindowsFormsApplication43.pdb
+C:\Users\PiorPC\Documents\its\SEM 6\pbbk\ets\WindowsFormsApplication43\WindowsFormsApplication43\obj\Debug\WindowsFormsApplication43.csproj.AssemblyReference.cache
+C:\Users\PiorPC\Documents\its\SEM 6\pbbk\ets\WindowsFormsApplication43\WindowsFormsApplication43\obj\Debug\WindowsFormsApplication43.csproj.SuggestedBindingRedirects.cache
+C:\Users\PiorPC\Documents\its\SEM 6\pbbk\ets\WindowsFormsApplication43\WindowsFormsApplication43\obj\Debug\WindowsFormsApplication43.Form1.resources
+C:\Users\PiorPC\Documents\its\SEM 6\pbbk\ets\WindowsFormsApplication43\WindowsFormsApplication43\obj\Debug\WindowsFormsApplication43.Properties.Resources.resources
+C:\Users\PiorPC\Documents\its\SEM 6\pbbk\ets\WindowsFormsApplication43\WindowsFormsApplication43\obj\Debug\WindowsFormsApplication43.csproj.GenerateResource.cache
+C:\Users\PiorPC\Documents\its\SEM 6\pbbk\ets\WindowsFormsApplication43\WindowsFormsApplication43\obj\Debug\WindowsFormsApplication43.csproj.CoreCompileInputs.cache
+C:\Users\PiorPC\Documents\its\SEM 6\pbbk\ets\WindowsFormsApplication43\WindowsFormsApplication43\obj\Debug\WindowsFormsApplication43.exe
+C:\Users\PiorPC\Documents\its\SEM 6\pbbk\ets\WindowsFormsApplication43\WindowsFormsApplication43\obj\Debug\WindowsFormsApplication43.pdb
